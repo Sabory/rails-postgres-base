@@ -107,6 +107,9 @@ GEM
     after_commit_everywhere (1.2.2)
       activerecord (>= 4.2)
       activesupport
+    annotate (3.2.0)
+      activerecord (>= 3.2, < 8.0)
+      rake (>= 10.4, < 14.0)
     arbre (1.5.0)
       activesupport (>= 3.0.0, < 7.1)
       ruby2_keywords (>= 0.0.2, < 1.0)
@@ -426,6 +429,7 @@ DEPENDENCIES
   aasm (~> 5.3.1)
   activeadmin (~> 2.13.1)
   activeadmin_addons
+  annotate
   bootsnap
   capybara
   chilean_cities!
