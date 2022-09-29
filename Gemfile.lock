@@ -234,6 +234,7 @@ GEM
     parallel (1.22.1)
     parser (3.1.2.1)
       ast (~> 2.4.1)
+    pg (1.4.3)
     power-types (0.6.0)
       activesupport
       after_commit_everywhere (~> 1.2, >= 1.2.2)
@@ -438,6 +439,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   nokogiri (~> 1.13.8)
+  pg (~> 1.4)
   power-types
   pry (~> 0.14.1)
   puma (~> 5.0)

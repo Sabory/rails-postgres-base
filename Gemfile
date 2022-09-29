@@ -100,3 +100,5 @@ end
 
 
 gem "whenever", "~> 1.0"
+
+gem "pg", "~> 1.4"
