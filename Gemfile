@@ -103,3 +103,13 @@ end
 gem "whenever", "~> 1.0"
 
 gem "pg", "~> 1.4"
+
+gem "money", "~> 6.16"
+
+gem "monetize", "~> 1.12"
+
+gem "money-rails", "~> 1.15"
+
+gem "rails-i18n", "~> 7.0"
+
+gem "i18n", "~> 1.12"
